@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137219727796",
+    "project_id": "sandhya-2185e",
+    "storage_bucket": "sandhya-2185e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137219727796:android:d111a3aced5de2104192e1",
+        "android_client_info": {
+          "package_name": "com.example.sandhya_garments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137219727796-jct9enosr2k4d6p37oa2tln8rth36im5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandhya_garments",
+            "certificate_hash": "8f5909775a1b427ad5bb7e7e0dbb202eb2cbda94"
+          }
+        },
+        {
+          "client_id": "137219727796-uuq2jqogcfuv0dgp24lba1hfrnn7v8uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbx5XrLmCOFHK1-Soqr74kF188D6_wgac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137219727796-uuq2jqogcfuv0dgp24lba1hfrnn7v8uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
